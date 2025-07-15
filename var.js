@@ -1,0 +1,10 @@
+var name="amosh";
+var age=20;
+var isStudent=true;
+console.log("Name:", name);
+console.log("Age:", age);   
+console.log("Is Student:", isStudent);
+console.log("Type of Name:", typeof name);
+console.log("Type of Age:", typeof age);
+console.log("Type of Is Student:", typeof isStudent);
+console.log("Type of Name is String:", typeof name === "string");
